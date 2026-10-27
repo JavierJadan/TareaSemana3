@@ -1,0 +1,1 @@
+-v --force --timestamp=none --sign - --entitlements /Users/John/Documents/JavierJadan/Uisrael/SEPTIMO/APPS/TareaSemana3/TareaSemana3/obj/Debug/net10.0-maccatalyst/maccatalyst-arm64/Entitlements.xcent /Users/John/Documents/JavierJadan/Uisrael/SEPTIMO/APPS/TareaSemana3/TareaSemana3/bin/Debug/net10.0-maccatalyst/maccatalyst-arm64/TareaSemana3.app
